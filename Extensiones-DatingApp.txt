@@ -1,0 +1,14 @@
+Bracket Pair Colorizer
+Angular Language Service
+Angular Snippets (Version 8)
+Material Icon Theme
+C# for Visual Studio Code (powered by OmniSharp)
+Path Intellisense
+Prettier - Code formatter
+TSLint (deprecated)
+NuGet Package Manager
+TypeScript Hero
+Debugger for Chrome
+
+
+--Addin Bootstrap and Font-Awesome to our Angular
