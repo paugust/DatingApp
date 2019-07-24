@@ -47,7 +47,6 @@ namespace DatingApp.API.Controllers
 
         }
 
-        [HttpPost("login")] /*El login */
         public async Task<IActionResult> Login(UserForLoginDto userForLoginDto)
         { 
            /* throw new Exception("Computer says no!"); */
