@@ -1,6 +1,6 @@
 namespace DatingApp.API.Models
 {
-    public class Producto //tabla de productos
+    public class Producto
     {
         public int id { get; set; }
         public string nombre { get; set; }
