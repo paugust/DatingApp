@@ -11,7 +11,7 @@ namespace DatingApp.API.Controllers
 {
    
    //http://localhost:5001/api/Nombre del Controlador...
-    [Authorize]
+    [AllowAnonymous]
     [Route("api/[controller]")]
     [ApiController]
     public class ValuesController : ControllerBase
@@ -47,7 +47,7 @@ namespace DatingApp.API.Controllers
         }
 
         // PUT api/values/3
-        [HttpPut("{id}")]
+        [HttpPut("{id}")] 
         public void Put(int id, [FromBody] string value)
         {
         }

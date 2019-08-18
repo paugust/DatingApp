@@ -9,6 +9,7 @@ TSLint (deprecated)
 NuGet Package Manager
 TypeScript Hero
 Debugger for Chrome
+C# Extensions
 
 
 --Addin Bootstrap and Font-Awesome to our Angular
